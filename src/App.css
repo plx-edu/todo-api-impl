@@ -1,6 +1,10 @@
 .App {
 	text-align: center;
 	display: flex;
+	margin-top: 10px;
+}
+h2 {
+	color: whitesmoke;
 }
 
 .mainSection {
